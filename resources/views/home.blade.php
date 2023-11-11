@@ -152,7 +152,6 @@ const app = Vue.createApp({
                     _this.page_loading = false;
                 },
                 success(resp) {
-                    console.log(resp);
                     if (resp.st) {
                         _this.user_name = resp.user_name;
                         _this.email = resp.email;

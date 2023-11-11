@@ -35,7 +35,6 @@ class CommentController extends Controller
             $user_info = $user->getUserInfoByAccount($account);
             
             $fields = '{ "store_name": "' . $user_info['store_name'] . '" }';
-            Log::debug($fields);
             
             $curl = curl_init();
             curl_setopt_array($curl, array(
