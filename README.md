@@ -4,5 +4,5 @@
 
 ### 展示DEMO連結
 
-- **[專案介紹及展示書](https://drive.google.com/file/d/1s2_gw4ORuxToRqn0mbfSKTHORa_0K3TB/view?usp=sharing)**
-- **[系統功能展示影片](https://drive.google.com/file/d/1nS0Q91YYghqjg1ze6j1U4SksMBcYqU7F/view?usp=sharing)**
+- **[專案介紹及展示書](https://drive.google.com/file/d/1rdMrIsHfYkTslEikCchVDGVnb89di-M7/view?usp=sharing)**
+- **[系統功能展示影片](https://drive.google.com/file/d/1vS54j4HZDvHOeFuRiyevnXDLqg-qpkFf/view?usp=sharing)**
